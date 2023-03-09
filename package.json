@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+
   "scripts": {
-    "dev": "NODE_ENV=dev ts-node-dev src/server.ts --debug",
+    "dev": "NODE_ENV=dev ts-node-dev src/app.ts --debug",
     "build": "tsc -w",
     "init": "tsc --init",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
   "keywords": [],
   "author": "",
   "license": "ISC",

@@ -1,0 +1,1 @@
+// Ilovada ishlatiladigan konfiguratsiya sozlamalarini eksport qiladi.
